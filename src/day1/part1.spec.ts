@@ -1,4 +1,4 @@
-import {solution} from "./day1part1";
+import {solution} from "./part1";
 
 describe("Day 1", () => {
     it("One line", () => {
