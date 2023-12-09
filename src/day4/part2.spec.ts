@@ -17,6 +17,6 @@ describe("Day 4", () => {
 
     it("Solution", () => {
         const answer = solution();
-        expect(answer).toBe(24542);
+        expect(answer).toBe(8736438);
     });
 });
